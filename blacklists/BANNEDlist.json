@@ -1,13 +1,16 @@
 {
     "1":{
-        "mid": "1:OPsongID1"
+        "title": "Battle for the Motherland",
+        "author": "Otohiko",
+        "mid": "1:ABCtU6NB_xs"
     },
     "2":{
-        "title": "This is a OP song",
-        "author": "The OP band",
-        "mid": "1:OPsongID2"
+        "title": "Nyan Cat",
+        "author": "Nyan Cat",
+        "mid": "1:QH2-TGUlwu4"
     },
     "3":{
-        "mid": "1:OPsongID3"
+         "title": "O du schöner Westerwald",
+         "mid": "1:bZZdNOvQyQ4"
     }
 }
